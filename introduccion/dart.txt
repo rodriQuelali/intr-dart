@@ -1,0 +1,12 @@
+por que dart?
+
+- AOT ahead of time: complilado a un rapido
+- puede ser JIT : compilado para una velocidad (otalmente personalizado)
+exepcional de desarrollo (esto incluye elpopular Hot Reload).
+-hacer facil la creacion de animacion y transiciones
+- al ser complilado a codugo nativo, no hay puentes 
+innecesario para correr el codigo.
+-Dart le permite a flutter evitar el desarrollo
+de diseños en archivos independientes como JSX, XML
+o bien interfaces separadas.
+-Dart es relativamemnte facil de aprender.
