@@ -15,7 +15,9 @@ void main() {
   
 
   //lista de tamaño fijo
-  List maasNumeros = List(10);
+  var maasNumeros = new List.filled(10, null);
+  //o
+  List masNumeros = List.filled(10, null);
   print(maasNumeros);
 
 }
