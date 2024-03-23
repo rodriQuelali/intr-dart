@@ -10,7 +10,7 @@ class Cuadrado {
   // _ colocams cuando queremos privado.
  // late ----  nos esta indicado que la variable luego se va a iniciar
   late double _lado;
-  double? _area;
+  //double? _area;
   
   set lado(double valor){
     if(valor <= 0){
